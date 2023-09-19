@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ca17e53-26b3-4e49-853c-faf16652633f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/guessTheNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/hello_flask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_flask/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.1 Heading Element/goal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.1 Heading Element/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.1 Heading Element/solution.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 Paragraph Element/goal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 Paragraph Element/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2 Paragraph Element/solution.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3 Void Elements/goal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3 Void Elements/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3 Void Elements/solution.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4 Movie Ranking Project/goal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4 Movie Ranking Project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4 Movie Ranking Project/solution.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.0 List Elements/goal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.0 List Elements/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.0 List Elements/solution.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1 Nesting and Indentation/goal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1 Nesting and Indentation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1 Nesting and Indentation/solution.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.2 Anchor Elements/goal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.2 Anchor Elements/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.2 Anchor Elements/solution.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.3 Image Elements/goal1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.3 Image Elements/goal2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.3 Image Elements/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.3 Image Elements/solution1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.3 Image Elements/solution2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.4 Birthday Invite Project/goal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.4 Birthday Invite Project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.4 Birthday Invite Project/solution.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/Solution/external.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/Solution/inline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/Solution/internal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/Solution/solution.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/Solution/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/external.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/inline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/internal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.3 CSS Selectors/goal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.3 CSS Selectors/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.3 CSS Selectors/solution/solution-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.3 CSS Selectors/solution/solution.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.3 CSS Selectors/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/assets/images/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/assets/images/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/assets/images/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/assets/images/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/assets/images/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/goal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/solution/assets/images/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/solution/assets/images/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/solution/assets/images/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/solution/assets/images/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/solution/assets/images/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/solution/solution.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/solution/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.3 CSS Box Model/goal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.3 CSS Box Model/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.3 CSS Box Model/solution.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.4 Motivation Meme Project/assets/images/daenerys.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.4 Motivation Meme Project/goal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.4 Motivation Meme Project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.4 Motivation Meme Project/pic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.4 Motivation Meme Project/solution/assets/images/daenerys.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.4 Motivation Meme Project/solution/solution.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.4 Motivation Meme Project/solution/solution.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.4 Motivation Meme Project/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VbSBy788fG1xxmd73Cn8rU9Y0l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="guessTheNumber" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ca17e53-26b3-4e49-853c-faf16652633f" name="Changes" comment="" />
+      <created>1695103154700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695103154700</updated>
+      <workItem from="1695103158502" duration="943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/guessTheNumber$main.coverage" NAME="main Coverage Results" MODIFIED="1695104070305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
