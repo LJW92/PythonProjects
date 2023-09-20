@@ -5,91 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ca17e53-26b3-4e49-853c-faf16652633f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/guessTheNumber.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/hello_flask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello_flask/hello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.1 Heading Element/goal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.1 Heading Element/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.1 Heading Element/solution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.2 Paragraph Element/goal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.2 Paragraph Element/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.2 Paragraph Element/solution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.3 Void Elements/goal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.3 Void Elements/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.3 Void Elements/solution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.4 Movie Ranking Project/goal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.4 Movie Ranking Project/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.4 Movie Ranking Project/solution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.0 List Elements/goal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.0 List Elements/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.0 List Elements/solution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.1 Nesting and Indentation/goal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.1 Nesting and Indentation/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.1 Nesting and Indentation/solution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.2 Anchor Elements/goal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.2 Anchor Elements/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.2 Anchor Elements/solution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.3 Image Elements/goal1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.3 Image Elements/goal2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.3 Image Elements/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.3 Image Elements/solution1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.3 Image Elements/solution2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.4 Birthday Invite Project/goal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.4 Birthday Invite Project/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.4 Birthday Invite Project/solution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/Solution/external.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/Solution/inline.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/Solution/internal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/Solution/solution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/Solution/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/external.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/inline.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/internal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.1. Adding CSS/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.3 CSS Selectors/goal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.3 CSS Selectors/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.3 CSS Selectors/solution/solution-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.3 CSS Selectors/solution/solution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.3 CSS Selectors/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/assets/images/blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/assets/images/green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/assets/images/orange.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/assets/images/red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/assets/images/yellow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/goal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/solution/assets/images/blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/solution/assets/images/green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/solution/assets/images/orange.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/solution/assets/images/red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/solution/assets/images/yellow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/solution/solution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/solution/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.4 Color Vocab Project/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.3 CSS Box Model/goal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.3 CSS Box Model/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.3 CSS Box Model/solution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.4 Motivation Meme Project/assets/images/daenerys.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.4 Motivation Meme Project/goal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.4 Motivation Meme Project/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.4 Motivation Meme Project/pic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.4 Motivation Meme Project/solution/assets/images/daenerys.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.4 Motivation Meme Project/solution/solution.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.4 Motivation Meme Project/solution/solution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.4 Motivation Meme Project/style.css" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/my-personal-site.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/templates/jeffrey.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/PythonProjects/Web Development Projects/guessTheNumber",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -150,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695103154700</updated>
       <workItem from="1695103158502" duration="943000" />
+      <workItem from="1695104319681" duration="1670000" />
     </task>
     <servers />
   </component>

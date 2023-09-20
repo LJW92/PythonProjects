@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9b99cad-3dd8-443e-a8d6-112dd0b002cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/my-personal-site.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/static/angela.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/static/chillies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/static/cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/static/mountain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/static/photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-personal-site/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/name-card.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/ie8.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/ie9 - Copy.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/ie9.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/main.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/noscript.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/67a30392a9c4d42ed248c6b1404813d02df84637/_functions.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/67a30392a9c4d42ed248c6b1404813d02df84637/_mixins.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/67a30392a9c4d42ed248c6b1404813d02df84637/_skel.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/67a30392a9c4d42ed248c6b1404813d02df84637/_vars.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/7e789d186c055861f24133e1b9885bb81c49b2aa/_copyright.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/7e789d186c055861f24133e1b9885bb81c49b2aa/_footer.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/7e789d186c055861f24133e1b9885bb81c49b2aa/_main.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/7e789d186c055861f24133e1b9885bb81c49b2aa/_wrapper.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/cf0bea95a132a2d2ad494712665ec6344019307b/_button.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/cf0bea95a132a2d2ad494712665ec6344019307b/_form.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/cf0bea95a132a2d2ad494712665ec6344019307b/_icon.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/cf0bea95a132a2d2ad494712665ec6344019307b/_list.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/fdfbe966239fea8d85b20cc3e91511822b0ce989/_page.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/fdfbe966239fea8d85b20cc3e91511822b0ce989/_typography.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/ie8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/ie9.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/images/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/noscript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/PIE.htc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/base/_page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/base/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/ie8.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/ie9.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/layout/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/layout/_wrapper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/libs/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/libs/_skel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/sass/noscript.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guessTheNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../guessTheNumber/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ve8BIsSgZEoQhRdhP0EBAFoHti" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/PythonProjects/Web Development Projects/name-card/static",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonProjects\Web Development Projects\name-card\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PythonProjects\Web Development Projects\name-card\static\images" />
+      <recent name="D:\PythonProjects\Web Development Projects\name-card\static\assets\sass" />
+      <recent name="D:\PythonProjects\Web Development Projects\name-card\static\assets\sass\libs" />
+      <recent name="D:\PythonProjects\Web Development Projects\name-card\static\assets\sass\layout" />
+      <recent name="D:\PythonProjects\Web Development Projects\name-card\static\assets\sass\components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="name-card" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9b99cad-3dd8-443e-a8d6-112dd0b002cc" name="Changes" comment="" />
+      <created>1695185048628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695185048628</updated>
+      <workItem from="1695185051430" duration="95000" />
+      <workItem from="1695185159848" duration="511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/name_card$main.coverage" NAME="main Coverage Results" MODIFIED="1695185657079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
