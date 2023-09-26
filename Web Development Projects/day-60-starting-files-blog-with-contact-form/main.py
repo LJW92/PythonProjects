@@ -48,15 +48,7 @@ def show_post(index):
 if __name__ == "__main__":
     app.run(debug=True)
 
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        dict = {}
-        for num in nums:
-            if num not in dict:
-                dict[target - num] = num
 
-            else:
-                return [nums.index(dict.get(num)), nums.index(num)]
 
 
 

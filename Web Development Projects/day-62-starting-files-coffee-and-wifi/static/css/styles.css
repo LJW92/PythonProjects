@@ -6,6 +6,7 @@ background-color: #333;
 color: white;
 }
 
+
 a {
     color: #ffc107;
 }
@@ -22,4 +23,9 @@ a {
 .space-above {
     margin-top: 20px;
     padding-top: 20px;
+}
+
+.custom-table {
+    background-color: #333;
+    color: white;
 }
