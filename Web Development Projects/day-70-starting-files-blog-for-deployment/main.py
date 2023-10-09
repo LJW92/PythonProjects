@@ -27,7 +27,7 @@ This will install the packages from the requirements.txt for this project.
 '''
 current_dir = os.path.dirname(os.path.abspath(__file__))
 app = Flask(__name__, instance_relative_config=True)
-app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
+app.config['SECRET_KEY'] = os.environ.get('FLASK_KEY')
 
 
 
