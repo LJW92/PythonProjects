@@ -29,8 +29,6 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 app = Flask(__name__, instance_relative_config=True)
 app.config['SECRET_KEY'] = os.environ.get('FLASK_KEY')
 
-
-
 ckeditor = CKEditor(app)
 Bootstrap5(app)
 
@@ -55,7 +53,7 @@ gravatar = Gravatar(app,
                     base_url=None)
 
 # CONNECT TO DB
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + os.path.join(current_dir, 'instance', 'posts.db')
+app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get("DB_URL", 'sqlite:///posts.db')
 db = SQLAlchemy()
 db.init_app(app)
 
@@ -272,6 +270,7 @@ def about():
 @app.route("/contact", methods=["GET", "POST"])
 def contact():
     return render_template("contact.html", current_user=current_user)
+
 
 # Optional: You can inclue the email sending code from Day 60:
 # DON'T put your email and password here directly! The code will be visible when you upload to Github.
